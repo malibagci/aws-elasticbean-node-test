@@ -1,6 +1,6 @@
 {
 
-  "name": "application-name",
+  "name": "aws-elasticbean-node-test",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -12,5 +12,5 @@
     "mysql": "*",
     "async": "*",
     "node-uuid": "*"
-} 
+}
 }
